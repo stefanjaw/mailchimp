@@ -14,7 +14,7 @@
         'views/mailchimp_lists_view.xml',
         'wizard/import_export_operation_view.xml',
         'views/mass_mailing_contact_view.xml',
-        'views/mass_mailing_list_view.xml',
+        #'views/mass_mailing_list_view.xml',  #Not working for V14
         'views/mailchimp_template_view.xml',
         'views/mailchimp_queue_process_view.xml',
         'views/mass_mailing_view.xml',
